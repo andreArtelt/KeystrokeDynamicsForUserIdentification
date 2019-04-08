@@ -1,0 +1,11 @@
+tornado
+numpy
+pandas
+joblib
+imbalanced-learn
+GPy
+GPyOpt
+matplotlib
+seaborn
+scikit-learn
+sklearn-lvq
